@@ -1,0 +1,17 @@
+Host: localhost
+
+Connection: keep-alive
+
+Pragma: no-cache
+
+Cache-Control: no-cache
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+
+Accept: image/webp,image/*,*/*;q=0.8
+
+Referer: http://localhost/wow.html
+
+Accept-Encoding: gzip, deflate, sdch, br
+
+Accept-Language: en-US,en;q=0.8
